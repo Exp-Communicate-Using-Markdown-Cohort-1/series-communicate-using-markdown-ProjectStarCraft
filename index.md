@@ -16,9 +16,17 @@ int main void(){
 console.log("Hello World");
 
 return 0;
+}
 
 ```
 
-}
+### This is an example of a task list using markdown 
+
+- [ ] Learn markdown on Github
+- [ ] Read material about obsidian in Notion
+- [ ] Implement a system in obsidian to take notes for computing and engineering combined.
+- [ ] Do further research and get vault ready for when i sign up for sync.
+
+
 
 
